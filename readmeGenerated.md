@@ -1,7 +1,7 @@
-# asdfsdf
+# ReadMe generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-  asdfdsf
+  sample descritption
 
   ## Table of Contents
   * [Installation](#installation)
@@ -13,20 +13,21 @@
 
   
   ## Installation
-  asdfdsf
+  sample
 
   ## Usage
-  afddsf
+  sample
   
   ## Contributing
-  afdf
+  sample
   
   ## Test
-  afdf
+  sample
   
   ## License
   MIT
   
+  
   ## Questions
-  [adfdsf](https://github.com/adfdsf)
-  Reach me on afdfa for additional queries.
+  [ankurshahi80](https://github.com/ankurshahi80)
+  Reach me on ankurshahi80@yahoo.com for additional queries.

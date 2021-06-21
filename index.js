@@ -87,7 +87,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Please choose your application license.',
-        choices: ["MIT","ISC","Open Software License 3.0","Mozilla Public License 2.0"]
+        choices: ["MIT","ISC","BSD","Mozilla Public License 2.0"]
     },
     {
         type: 'input',
@@ -121,7 +121,7 @@ const questions = [
 function writeToFile(fileName, data) {
     fs.writeFile(fileName,generateMarkdown(data),err=> {
         if (err) throw err;
-        console.log('README complete! Check out readme.md to see the output!')
+        console.log('README complete! Check out readmeGenerated.md to see the output!')
     })
 }
 
