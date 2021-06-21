@@ -38,7 +38,7 @@ MIT
 
 ## Questions
 Got questions? Check out my github profile: [ankurshahi80](https://github.com/ankurshahi80)
-or reach me on shahiankur80@gmail.com with your queries.
+or reach me at shahiankur80@gmail.com with your queries.
 
 ## References:
 [How to create a Professional README](./readme-guide.md)
