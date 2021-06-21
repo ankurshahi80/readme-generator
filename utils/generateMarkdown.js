@@ -43,7 +43,7 @@ function generateMarkdown(data) {
   
   ## Questions
   [${data.github}](https://github.com/${data.github})
-  ${data.email}
+  Reach me on ${data.email} for additional queries.
 `;
 }
 
