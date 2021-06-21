@@ -60,8 +60,8 @@ function generateMarkdown(data) {
   
   
   ## Questions
-  [${data.github}](https://github.com/${data.github})
-  Reach me on ${data.email} for additional queries.
+  Got questions? Check out my github profile: [${data.github}](https://github.com/${data.github})
+  or reach me on ${data.email} with your queries.
 `;
 }
 
