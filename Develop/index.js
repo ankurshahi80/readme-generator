@@ -2,8 +2,7 @@
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown');
 const fs = require('fs');
-const Choice = require('inquirer/lib/objects/choice');
-const Choices = require('inquirer/lib/objects/choices');
+
 // TODO: Create an array of questions for user input
 const questions = [
     {
@@ -66,7 +65,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
         .then((data) =>{
-            writeToFile('readme.md',data);
+            writeToFile('./readme.md',data);
             // console.log(generateMarkdown(data));
         });
 }
